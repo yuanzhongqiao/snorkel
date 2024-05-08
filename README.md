@@ -1,116 +1,104 @@
-<img src="figs/logo_01.png" width="150"/>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/snorkel-team/snorkel/blob/main/figs/logo_01.png"><img src="/snorkel-team/snorkel/raw/main/figs/logo_01.png" width="150" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/63c1556ba8cef7b9e0074b36870da9e53cc64f6005140af2416f71148aac5bf6/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f736e6f726b656c"><img src="https://camo.githubusercontent.com/63c1556ba8cef7b9e0074b36870da9e53cc64f6005140af2416f71148aac5bf6/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f736e6f726b656c" alt="PyPI - Python 版本" data-canonical-src="https://img.shields.io/pypi/pyversions/snorkel" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9658798c72de95d34929236ffafac6adaca855fa6a6c9294c0e733b9deb81af8/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f736e6f726b656c"><img src="https://camo.githubusercontent.com/9658798c72de95d34929236ffafac6adaca855fa6a6c9294c0e733b9deb81af8/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f736e6f726b656c" alt="皮伊" data-canonical-src="https://img.shields.io/pypi/v/snorkel" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/eb636bed1cfb2fffd3f6da10180a65de59cf36e8b19ccba5f295436605f05714/68747470733a2f2f696d672e736869656c64732e696f2f636f6e64612f762f636f6e64612d666f7267652f736e6f726b656c"><img src="https://camo.githubusercontent.com/eb636bed1cfb2fffd3f6da10180a65de59cf36e8b19ccba5f295436605f05714/68747470733a2f2f696d672e736869656c64732e696f2f636f6e64612f762f636f6e64612d666f7267652f736e6f726b656c" alt="康达" data-canonical-src="https://img.shields.io/conda/v/conda-forge/snorkel" style="max-width: 100%;"></a>
+<a href="https://snorkel.readthedocs.io/en/master" rel="nofollow"><img src="https://camo.githubusercontent.com/b50304cc34fc1704c52c14b174cf9eda53f20f1f04be80b4faac69894251250e/68747470733a2f2f72656164746865646f63732e6f72672f70726f6a656374732f736e6f726b656c2f62616467652f3f76657273696f6e3d6d6173746572" alt="文档" data-canonical-src="https://readthedocs.org/projects/snorkel/badge/?version=master" style="max-width: 100%;"></a>
+<a href="https://codecov.io/gh/snorkel-team/snorkel/branch/master" rel="nofollow"><img src="https://camo.githubusercontent.com/e2d000320fdd82054dda9049ab7b174026e32fda766bab916d83ded153d6af8d/68747470733a2f2f636f6465636f762e696f2f67682f736e6f726b656c2d7465616d2f736e6f726b656c2f6272616e63682f6d61737465722f67726170682f62616467652e737667" alt="覆盖范围" data-canonical-src="https://codecov.io/gh/snorkel-team/snorkel/branch/master/graph/badge.svg" style="max-width: 100%;"></a>
+<a href="https://opensource.org/licenses/Apache-2.0" rel="nofollow"><img src="https://camo.githubusercontent.com/db9dfde8049c5d66ba62fde707d2cfb30e26f9f26ff274c3442c0aec1ec410a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d417061636865253230322e302d626c75652e737667" alt="执照" data-canonical-src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" style="max-width: 100%;"></a></p>
+<p dir="auto"><em><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以编程方式构建和管理培训数据</font></font></strong></em></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">公告</font></font></h2><a id="user-content-announcement" class="anchor" aria-label="永久链接：公告" href="#announcement"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Snorkel 团队现在正集中精力开发 Snorkel Flow，这是一个基于 Snorkel 核心思想的端到端人工智能应用开发平台 - 您可以</font></font><a href="https://snorkel.ai" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在这里</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看或</font></font><a href="https://www.snorkel.ai/careers" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与我们一起</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建它！</font></font></strong></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://snorkel.ai/how-to-use-snorkel-to-build-ai-applications/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Snorkel 项目</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">于</font><font style="vertical-align: inherit;">2015 年在斯坦福大学启动，当时有一个简单的技术赌注：决定机器学习项目成功或失败的将越来越多的是</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">训练数据</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，而不是模型、算法或基础设施。考虑到这一前提，我们着手探索一个激进的想法，即可以将数学和系统结构引入训练数据创建和管理的混乱且通常完全手动的过程中，首先让用户能够以</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编程方式标记、构建和管理</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">训练数据。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">说 Snorkel 项目取得了成功，并且其扩展超出了我们的预期，这是一种轻描淡写的说法。像 Snorkel 这样的研究仓库的基本目标是提供一个最小可行的框架来测试和验证假设。四年后，我们很幸运不仅做到了这一点，还与</font></font><a href="https://ai.googleblog.com/2019/03/harnessing-organizational-knowledge-for.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Google</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://dl.acm.org/doi/abs/10.1145/3329486.3329492" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Intel</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://www.cell.com/patterns/fulltext/S2666-3899(20)30019-2" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Stanford Medicine</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">等</font><font style="vertical-align: inherit;">一些世界领先的组织合作开发和部署了 Snorkel 的早期版本；</font><font style="vertical-align: inherit;">撰写了</font></font><a href="https://snorkel.ai/technology" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">60 多篇同行评审出版物</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，内容涉及 Snorkel 的研究结果以及弱监督建模、数据增强、多任务学习等方面的相关创新；被纳入顶尖大学的课程；支持您在过去几个小时内可能使用过的系统中的生产部署；并与来自工业、医学、政府、学术界等领域的研究人员和从业者组成的令人惊叹的社区合作。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">然而，通过每周办公时间与用户的对话、研讨会、在线讨论和行业合作伙伴，我们越来越意识到 Snorkel 项目只是第一步。 Snorkel 背后的想法不仅改变了您标记训练数据的方式，还改变了构建、部署和管理 ML 的整个生命周期和流程：用户如何注入他们的知识；如何构建、训练、检查、版本控制和监控模型；整个管道是如何迭代开发的；以及如何将任何 ML 部署中的全套利益相关者（从主题专家到 ML 工程师）纳入该流程。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">去年，我们一直在构建平台来支持这一更广泛的愿景：</font></font><a href="https://snorkel.ai/snorkel-flow-platform/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Snorkel Flow</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，一个用于开发和部署人工智能应用程序的端到端机器学习平台。 Snorkel Flow 将 Snorkel 项目的许多概念与一系列围绕弱监督建模、数据增强、多任务学习、数据切片和结构化、监控和分析等的新技术相结合，所有这些都以一种方式集成：大于各部分之和——我们相信这使得机器学习真正比以往更快、更灵活、更实用。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">展望未来，我们将把重点放在 Snorkel Flow 上。我们非常感谢所有为 Snorkel 项目做出贡献的人，并很高兴您能</font></font><a href="https://snorkel.ai" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在这里</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看我们的下一章。</font></font></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速链接</font></font></h1><a id="user-content-quick-links" class="anchor" aria-label="永久链接：快速链接" href="#quick-links"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://snorkel.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">浮潜网站</font></font></a></li>
+<li><a href="https://github.com/snorkel-team/snorkel-tutorials"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">浮潜教程</font></font></a></li>
+<li><a href="https://snorkel.readthedocs.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通气管文档</font></font></a></li>
+<li><a href="https://spectrum.chat/snorkel" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">浮潜社区论坛</font></font></a></li>
+<li><a href="https://groups.google.com/forum/#!forum/snorkel-ml" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">浮潜邮件列表</font></font></a></li>
+<li><a href="https://twitter.com/SnorkelAI" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">浮潜推特</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></h1><a id="user-content-getting-started" class="anchor" aria-label="永久链接：开始使用" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">熟悉 Snorkel 库的最快方法是浏览Snorkel 网站上的</font></font><a href="https://snorkel.org/get-started/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">“入门”页面，然后阅读</font></font></a><font style="vertical-align: inherit;"></font><a href="https://github.com/snorkel-team/snorkel-tutorials"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Snorkel 教程</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">存储库中的完整教程</font><font style="vertical-align: inherit;">。这些教程演示了各种任务、领域、标记技术和集成，当您将 Snorkel 应用到自己的应用程序时，它们可以用作模板。</font></font></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></h1><a id="user-content-installation" class="anchor" aria-label="永久链接：安装" href="#installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Snorkel 需要 Python 3.11 或更高版本。要安装 Snorkel，我们建议使用</font></font><code>pip</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install snorkel</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="pip install snorkel" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或者</font></font><code>conda</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>conda install snorkel -c conda-forge</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="conda install snorkel -c conda-forge" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关从源安装和向 Snorkel 贡献的信息，请参阅我们的
+</font></font><a href="/snorkel-team/snorkel/blob/main/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<details><summary><b><font style="vertical-align: inherit;"><tt><font style="vertical-align: inherit;">使用conda</font></tt><font style="vertical-align: inherit;">安装的详细信息</font></font><tt><font style="vertical-align: inherit;"></font></tt></b></summary>
+<p dir="auto">
+</p><p dir="auto">The following example commands give some more color on installing with <code>conda</code>.
+These commands assume that your <code>conda</code> installation is Python 3.11,
+and that you want to use a virtual environment called <code>snorkel-env</code>.</p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-c"><span class="pl-c">#</span> [OPTIONAL] Activate a virtual environment called "snorkel"</span>
+conda create --yes -n snorkel-env python=3.11
+conda activate snorkel-env
 
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/snorkel)
-![PyPI](https://img.shields.io/pypi/v/snorkel)
-![Conda](https://img.shields.io/conda/v/conda-forge/snorkel)
-[![docs](https://readthedocs.org/projects/snorkel/badge/?version=master)](https://snorkel.readthedocs.io/en/master)
-[![coverage](https://codecov.io/gh/snorkel-team/snorkel/branch/master/graph/badge.svg)](https://codecov.io/gh/snorkel-team/snorkel/branch/master)
-[![license](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
-***Programmatically Build and Manage Training Data***
-
-## Announcement
-
-**The Snorkel team is now focusing their efforts on Snorkel Flow, an end-to-end AI application development platform based on the core ideas behind Snorkel—you can check it out [here](https://snorkel.ai) or [join us](https://www.snorkel.ai/careers) in building it!**
-
-The [Snorkel project](https://snorkel.ai/how-to-use-snorkel-to-build-ai-applications/) started at Stanford in 2015 with a simple technical bet: that it would increasingly be the **training data**, not the models, algorithms, or infrastructure, that decided whether a machine learning project succeeded or failed. Given this premise, we set out to explore the radical idea that you could bring mathematical and systems structure to the messy and often entirely manual process of training data creation and management, starting by empowering users to **programmatically label, build, and manage** training data.
-
-To say that the Snorkel project succeeded and expanded beyond what we had ever expected would be an understatement. The basic goals of a research repo like Snorkel are to provide a minimum viable framework for testing and validating hypotheses. Four years later, we’ve been fortunate to do not just this, but to develop and deploy early versions of Snorkel in partnership with some of the world’s leading organizations like [Google](https://ai.googleblog.com/2019/03/harnessing-organizational-knowledge-for.html), [Intel](https://dl.acm.org/doi/abs/10.1145/3329486.3329492), [Stanford Medicine](https://www.cell.com/patterns/fulltext/S2666-3899(20)30019-2), and many more; author over [sixty peer-reviewed publications](https://snorkel.ai/technology) on our findings around Snorkel and related innovations in weak supervision modeling, data augmentation, multi-task learning, and more; be included in courses at top-tier universities; support production deployments in systems that you’ve likely used in the last few hours; and work with an amazing community of researchers and practitioners from industry, medicine, government, academia, and beyond.
-
-However, we realized increasingly–from conversations with users in weekly office hours, workshops, online discussions, and industry partners–that the Snorkel project was just the very first step. The ideas behind Snorkel change not just how you label training data, but so much of the entire lifecycle and pipeline of building, deploying, and managing ML: how users inject their knowledge; how models are constructed, trained, inspected, versioned, and monitored; how entire pipelines are developed iteratively; and how the full set of stakeholders in any ML deployment, from subject matter experts to ML engineers, are incorporated into the process.
-
-Over the last year, we have been building the platform to support this broader vision: [Snorkel Flow](https://snorkel.ai/snorkel-flow-platform/), an end-to-end machine learning platform for developing and deploying AI applications. Snorkel Flow incorporates many of the concepts of the Snorkel project with a range of newer techniques around weak supervision modeling, data augmentation, multi-task learning, data slicing and structuring, monitoring and analysis, and more, all of which integrate in a way that is greater than the sum of its parts–and that we believe makes ML truly faster, more flexible, and more practical than ever before.
-
-Moving forward, we will be focusing our efforts on Snorkel Flow. We are extremely grateful for all of you that have contributed to the Snorkel project, and are excited for you to check out our next chapter [here](https://snorkel.ai).
-
-
-# Quick Links
-* [Snorkel website](https://snorkel.org)
-* [Snorkel tutorials](https://github.com/snorkel-team/snorkel-tutorials)
-* [Snorkel documentation](https://snorkel.readthedocs.io/)
-* [Snorkel community forum](https://spectrum.chat/snorkel)
-* [Snorkel mailing list](https://groups.google.com/forum/#!forum/snorkel-ml)
-* [Snorkel Twitter](https://twitter.com/SnorkelAI)
-
-# Getting Started
-The quickest way to familiarize yourself with the Snorkel library is to walk through the [Get Started](https://snorkel.org/get-started/) page on the Snorkel website, followed by the full-length tutorials in the [Snorkel tutorials](https://github.com/snorkel-team/snorkel-tutorials) repository.
-These tutorials demonstrate a variety of tasks, domains, labeling techniques, and integrations that can serve as templates as you apply Snorkel to your own applications.
-
-
-# Installation
-
-Snorkel requires Python 3.11 or later. To install Snorkel, we recommend using `pip`:
-
-```bash
-pip install snorkel
-```
-
-or `conda`:
-
-```bash
-conda install snorkel -c conda-forge
-```
-
-For information on installing from source and contributing to Snorkel, see our
-[contributing guidelines](./CONTRIBUTING.md).
-
-<details><summary><b>Details on installing with <tt>conda</tt></b></summary>
-<p>
-
-The following example commands give some more color on installing with `conda`.
-These commands assume that your `conda` installation is Python 3.11,
-and that you want to use a virtual environment called `snorkel-env`.
-
-```bash
-# [OPTIONAL] Activate a virtual environment called "snorkel"
+<span class="pl-c"><span class="pl-c">#</span> We specify PyTorch here to ensure compatibility, but it may not be necessary.</span>
+conda install pytorch==1.1.0 -c pytorch
+conda install snorkel==0.9.0 -c conda-forge</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="# [OPTIONAL] Activate a virtual environment called &quot;snorkel&quot;
 conda create --yes -n snorkel-env python=3.11
 conda activate snorkel-env
 
 # We specify PyTorch here to ensure compatibility, but it may not be necessary.
 conda install pytorch==1.1.0 -c pytorch
-conda install snorkel==0.9.0 -c conda-forge
-```
-
-</p>
+conda install snorkel==0.9.0 -c conda-forge" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"></p>
 </details>
-
-<details><summary><b>A quick note for Windows users</b></summary>
-<p>
-
-If you're using Windows, we highly recommend using Docker
+<details><summary><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">给 Windows 用户的快速说明</font></font></b></summary>
+<p dir="auto">
+</p><p dir="auto">If you're using Windows, we highly recommend using Docker
 (you can find an example in our
-[tutorials repo](https://github.com/snorkel-team/snorkel-tutorials/blob/master/Dockerfile))
-or the [Linux subsystem](https://docs.microsoft.com/en-us/windows/wsl/faq).
+<a href="https://github.com/snorkel-team/snorkel-tutorials/blob/master/Dockerfile">tutorials repo</a>)
+or the <a href="https://docs.microsoft.com/en-us/windows/wsl/faq" rel="nofollow">Linux subsystem</a>.
 We've done limited testing on Windows, so if you want to contribute instructions
-or improvements, feel free to open a PR!
-
-</p>
+or improvements, feel free to open a PR!</p>
+<p dir="auto"></p>
 </details>
-
-# Discussion
-
-## Issues
-We use [GitHub Issues](https://github.com/snorkel-team/snorkel/issues) for posting bugs and feature requests — anything code-related.
-Just make sure you search for related issues first and use our Issues templates.
-We may ask for contributions if a prompt fix doesn't fit into the immediate roadmap of the core development team.
-
-## Contributions
-We welcome contributions from the Snorkel community! 
-This is likely the fastest way to get a change you'd like to see into the library.
-
-Small contributions can be made directly in a pull request (PR).
-If you would like to contribute a larger feature, we recommend first creating an issue with a proposed design for discussion. 
-For ideas about what to work on, we've labeled specific issues as [`help wanted`](https://github.com/snorkel-team/snorkel/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22+).
-
-To set up a development environment for contributing back to Snorkel, see our [contributing guidelines](./CONTRIBUTING.md).
-All PRs must pass the continuous integration tests and receive approval from a member of the Snorkel development team before they will be merged.
-
-## Community Forum
-For broader Q&A, discussions about using Snorkel, tutorial requests, etc., use the [Snorkel community forum](https://spectrum.chat/snorkel) hosted on Spectrum.
-We hope this will be a venue for you to interact with other Snorkel users — please don't be shy about posting!
-
-## Announcements
-To stay up-to-date on Snorkel-related announcements (e.g. version releases, upcoming workshops), subscribe to the [Snorkel mailing list](https://groups.google.com/forum/#!forum/snorkel-ml). We promise to respect your inboxes — communication will be sparse!
-
-## Twitter
-Follow us on Twitter [@SnorkelAI](https://twitter.com/SnorkelAI).
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讨论</font></font></h1><a id="user-content-discussion" class="anchor" aria-label="永久链接：讨论" href="#discussion"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">问题</font></font></h2><a id="user-content-issues" class="anchor" aria-label="永久链接：问题" href="#issues"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们使用</font></font><a href="https://github.com/snorkel-team/snorkel/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub Issues</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来发布错误和功能请求 - 任何与代码相关的内容。只需确保您首先搜索相关问题并使用我们的问题模板即可。如果及时修复不符合核心开发团队的当前路线图，我们可能会要求做出贡献。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2><a id="user-content-contributions" class="anchor" aria-label="永久链接：贡献" href="#contributions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们欢迎 Snorkel 社区的贡献！这可能是在库中实现您希望看到的更改的最快方法。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">小额贡献可以直接在拉取请求（PR）中做出。如果您想贡献更大的功能，我们建议首先创建一个包含提议设计的问题以供讨论。对于有关要做什么的想法，我们将特定问题标记为</font></font><a href="https://github.com/snorkel-team/snorkel/issues?utf8=%E2%9C%93&amp;q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22+"><code>help wanted</code></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要建立一个开发环境来回馈 Snorkel，请参阅我们的</font></font><a href="/snorkel-team/snorkel/blob/main/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。所有 PR 必须通过持续集成测试并获得 Snorkel 开发团队成员的批准才能合并。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区论坛</font></font></h2><a id="user-content-community-forum" class="anchor" aria-label="永久链接：社区论坛" href="#community-forum"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如需更广泛的问答、有关使用 Snorkel 的讨论、教程请求等，请使用</font><font style="vertical-align: inherit;">Spectrum 上托管的</font></font><a href="https://spectrum.chat/snorkel" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Snorkel 社区论坛</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。我们希望这将成为您与其他 Snorkel 用户互动的场所 - 请不要羞于发帖！</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">公告</font></font></h2><a id="user-content-announcements" class="anchor" aria-label="永久链接：公告" href="#announcements"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要及时了解 Snorkel 相关公告（例如版本发布、即将举行的研讨会），请订阅</font></font><a href="https://groups.google.com/forum/#!forum/snorkel-ml" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Snorkel 邮件列表</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。我们承诺尊重您的收件箱——沟通将会变得稀疏！</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">推特</font></font></h2><a id="user-content-twitter" class="anchor" aria-label="永久链接：推特" href="#twitter"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 Twitter 上关注我们</font></font><a href="https://twitter.com/SnorkelAI" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@SnorkelAI</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+</article></div>
